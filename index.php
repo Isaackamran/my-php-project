@@ -9,7 +9,8 @@
     <?php
     // Test simple output string in browser
         echo "Hello Pashtun";
-        echo "Salam"
+        echo "Salam";
+        echo "Hala Hala"
     ?>
 </body>
 </html>
