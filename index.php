@@ -7,7 +7,9 @@
 </head>
 <body>
     <?php
+    // Test simple output string in browser
         echo "Hello Pashtun";
+        echo "Salam"
     ?>
 </body>
 </html>
